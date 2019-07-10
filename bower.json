@@ -1,0 +1,18 @@
+{
+  "name": "bower.json",
+  "description": "A tutorial application for AngularJS",
+  "main": "",
+  "authors": [
+    "armine <armine@bicomsystems.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/armineminagic/angular-phonecat",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
